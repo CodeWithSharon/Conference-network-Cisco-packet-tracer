@@ -116,9 +116,8 @@ Connects via wired or wireless network.
 
 Accesses conference materials, live streams, and communication tools. 
 
- 
 
-           11.SSL VPN in a Conference Network 
+11.SSL VPN in a Conference network
 
 SSL VPN (Secure Sockets Layer Virtual Private Network) is a technology that allows remote users to securely access internal conference network resources over the internet using a web browser. It encrypts data using SSL/TLS, ensuring confidentiality, integrity, and authentication. 
 
