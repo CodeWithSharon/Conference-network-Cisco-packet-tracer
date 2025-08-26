@@ -2,21 +2,13 @@
 
 
 
-
-
-
-
-
-
 A conference network is a specialized network designed to support various devices and services during a conference or large-scale event. This network typically facilitates seamless communication, data sharing, internet access, and device management for attendees, presenters, and organizers. The conference network must be highly reliable, secure, and capable of handling a large volume of concurrent devices and services, such as laptops, smartphones, printers, etc. 
 
  
 
 Purpose: To provide seamless communication, internet access, and efficient traffic management during a conference or large-scale event. 
 
- 
 
- 
 
 Key Components: 
 
